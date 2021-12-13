@@ -1,4 +1,4 @@
-html {
+* {
     filter: gray;
     filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
     filter: grayscale(100%);
